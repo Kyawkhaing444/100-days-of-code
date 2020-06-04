@@ -1,10 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: June 4, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I have practice 31 Applied Visual Design Challenges at https://www.freecodecamp.org/ and created githubPopularRepo React Web App mainly focuses on component Lifecycle Events, Ajax Requests, and Dynamic Rendering.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://github.com/Kyawkhaing444/githubPopularRepo-React-App
