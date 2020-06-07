@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 7, 2020
+
+**Today's Progress**: I have started the Tesla’s Battery Range Calculator with React & Redux project up and broken down the project UI into a component hierarchy.
+
+**Link to work:** https://github.com/Kyawkhaing444/react-tesla-range-calculator
+
 ### Day 3: June 6, 2020
 
 **Today's Progress**: I have completed All challenges in the Applied Accessibility and Responsive Web Design principles Coding challenge at https://www.freecodecamp.org/ and finished react-router project.
