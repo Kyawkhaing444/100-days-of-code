@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 8, 2020
+
+**Today's Progress**: I have finished the Header component and Tesla Battery container of My Tesla Battery Range Calculator with React and Redux. 
+
+**Link to work:** https://github.com/Kyawkhaing444/react-tesla-range-calculator
+
 ### Day 4: June 7, 2020
 
 **Today's Progress**: I have started the Tesla’s Battery Range Calculator with React & Redux project up and broken down the project UI into a component hierarchy.
