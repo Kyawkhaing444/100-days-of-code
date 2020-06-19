@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: June 19, 2020
+
+**Today's Progress**: I have fixed some bugs of My Tesla Battery Range Calculator with React and Redux and completed Tribute Page coding challenge at https://www.freecodecamp.org/.
+
+**Link to work:** https://codepen.io/kyawkhaing/full/wvMgxmK
+
 ### Day 7: June 18, 2020
 
 **Today's Progress**: I have finished the Tesla Stats component of My Tesla Battery Range Calculator with React and Redux and completed all challenges in the CSS flexbox and CSS grid coding challenge at https://www.freecodecamp.org/.
