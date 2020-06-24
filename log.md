@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: June 24, 2020
+
+**Today's Progress**: I have completed product landing page (Responsive Web Design Projects) coding challenge at https://www.freecodecamp.org/.
+
+**Link to work:** https://codepen.io/kyawkhaing/full/KKVqVQm
+
 ### Day 9: June 23, 2020
 
 **Today's Progress**: I have completed Survey Form (Responsive Web Design Projects) coding challenge at https://www.freecodecamp.org/.
