@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: June 27, 2020
+
+**Today's Progress**: I have completed my startup name generator flutter app.
+
+**Link to work:** https://github.com/Kyawkhaing444/startup_name_generator
+
 ### Day 10: June 24, 2020
 
 **Today's Progress**: I have completed product landing page (Responsive Web Design Projects) coding challenge at https://www.freecodecamp.org/.
