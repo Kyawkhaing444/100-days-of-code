@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 30, 2020
+
+**Today's Progress**: I have completed my Friendly chat flutter app.
+
+**Link to work:** https://github.com/Kyawkhaing444/FriendlyChat
+
 ### Day 11: June 27, 2020
 
 **Today's Progress**: I have completed my startup name generator flutter app.
