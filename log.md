@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 14, 2020
+
+**Today's Progress**: I have practiced ten dart coding challenge at codewars.com.
+
 ### Day 12: June 30, 2020
 
 **Today's Progress**: I have completed my Friendly chat flutter app.
