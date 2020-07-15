@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: July 15, 2020
+
+**Today's Progress**: I have completed my Flutter e-commerce app (Shrine) version 1.
+
+**Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
+
+**Output Image**
+
+<img src="https://user-images.githubusercontent.com/34454546/87541464-4e241300-c6c7-11ea-9c2d-fe86d439deca.png" alt="Image output" width="200"/>
+
 ### Day 13: July 14, 2020
 
 **Today's Progress**: I have practiced ten dart coding challenge at codewars.com.
@@ -9,6 +19,10 @@
 **Today's Progress**: I have completed my Friendly chat flutter app.
 
 **Link to work:** https://github.com/Kyawkhaing444/FriendlyChat
+
+**Output Image**
+
+<img src="https://user-images.githubusercontent.com/34454546/87542090-5d579080-c6c8-11ea-87a6-c301a423212b.png" alt="Image output" width="200"/>
 
 ### Day 11: June 27, 2020
 
