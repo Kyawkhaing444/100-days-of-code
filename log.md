@@ -20,10 +20,6 @@
 
 **Link to work:** https://github.com/Kyawkhaing444/FriendlyChat
 
-**Output Image**
-
-<img src="https://user-images.githubusercontent.com/34454546/87542090-5d579080-c6c8-11ea-87a6-c301a423212b.png" alt="Image output" width="200"/>
-
 ### Day 11: June 27, 2020
 
 **Today's Progress**: I have completed my startup name generator flutter app.
