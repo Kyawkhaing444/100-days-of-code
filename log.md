@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: July 16, 2020
+
+**Today's Progress**: Learned to react component architecture and implemented version 1 of my Github jobs project in nextjs and react.
+
+**Link to work:** https://github.com/Kyawkhaing444/github-jobs-react-nextjs
+
 ### Day 14: July 15, 2020
 
 **Today's Progress**: I have completed my Flutter e-commerce app (Shrine) version 1.
