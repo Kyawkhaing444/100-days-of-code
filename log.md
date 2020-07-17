@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: July 17, 2020
+
+**Today's Progress**: Finished the final version of my Github jobs project in nextjs and react.
+
+**Link to work:** https://github.com/Kyawkhaing444/github-jobs-react-nextjs
+
+**Output Image**
+
+![Screenshot (96)](https://user-images.githubusercontent.com/34454546/87807971-f6c8a300-c87e-11ea-9c2f-88893e9e4d40.png)
+
+
 ### Day 15: July 16, 2020
 
 **Today's Progress**: Learned to react component architecture and implemented version 1 of my Github jobs project in nextjs and react.
