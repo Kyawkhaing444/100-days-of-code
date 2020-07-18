@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: July 18, 2020
+
+**Today's Progress**: I have completed my Flutter e-commerce app (Shrine) version 2 ( added HomePage and Navigation Bar).
+
+**Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
+
+**Output Image**
+
+![Shire_version_2](https://user-images.githubusercontent.com/34454546/87853996-85e3c280-c934-11ea-8805-2d1d570a7961.gif)
+
+
 ### Day 16: July 17, 2020
 
 **Today's Progress**: Finished the final version of my Github jobs project in nextjs and react.
