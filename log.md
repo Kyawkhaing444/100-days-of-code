@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: July 20, 2020
+
+**Today's Progress**: Added custom color theme and custom text theme for my shrine.
+
+**Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
+
+**Output Image**
+
+![Shire version 3](https://user-images.githubusercontent.com/34454546/87951034-173a6c80-cace-11ea-93dc-d8d07ce094d9.gif)
+
 ### Day 17: July 18, 2020
 
 **Today's Progress**: I have completed my Flutter e-commerce app (Shrine) version 2 ( added HomePage and Navigation Bar).
