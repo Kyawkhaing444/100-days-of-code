@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 19: July 21, 2020
+
+**Today's Progress**: Added custom shape for all buttons and custom layout for my shrine app.
+
+**Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
+
+**Output Image**
+![Shire version 3](https://user-images.githubusercontent.com/34454546/88046716-7b187000-cb76-11ea-8e4b-8b32ec20efa8.gif)
+<br>
+<img src="https://user-images.githubusercontent.com/34454546/88046333-e9106780-cb75-11ea-8b42-8a631c521d16.png" alt="Image output" width="200" />
+<img src="https://user-images.githubusercontent.com/34454546/88046344-eca3ee80-cb75-11ea-9d93-f76d4586a59f.png" alt="Image output" width="200" style="float: left; display: inline-block;"/>
+<img src="https://user-images.githubusercontent.com/34454546/88046355-ef9edf00-cb75-11ea-87ff-eb480733994d.png" alt="Image output" width="200" style="float: left; display: inline-block;"/>
+<img src="https://user-images.githubusercontent.com/34454546/88046367-f3326600-cb75-11ea-81ef-be9d79997485.png" alt="Image output" width="200"/>
+
 ### Day 18: July 20, 2020
 
 **Today's Progress**: Added custom color theme and custom text theme for my shrine.
