@@ -6,7 +6,6 @@
 
 **Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
 
-**Output Image**
 ![Shire version 3](https://user-images.githubusercontent.com/34454546/88046716-7b187000-cb76-11ea-8e4b-8b32ec20efa8.gif)
 <br>
 <img src="https://user-images.githubusercontent.com/34454546/88046333-e9106780-cb75-11ea-8b42-8a631c521d16.png" alt="Image output" width="200" />
