@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 20: July 22, 2020
+
+**Today's Progress**: Added backdrop menu and modified the custom shape for the front layer (Home Page).(ShrineApp)
+
+**Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
+
+<img src="https://user-images.githubusercontent.com/34454546/88152848-a361a680-cc2a-11ea-9393-c82b334b18ff.gif" alt="Image output" width="200" style="float: left; display: inline-block;"/>
+<img src="https://user-images.githubusercontent.com/34454546/88152546-2e8e6c80-cc2a-11ea-8984-ad06af567654.png" alt="Image output" width="200" style="float: left; display: inline-block;"/>
+
 ### Day 19: July 21, 2020
 
 **Today's Progress**: Added custom shape for all buttons and custom layout for my shrine app.
