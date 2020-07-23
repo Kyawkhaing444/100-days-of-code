@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 21: July 23, 2020
+
+**Today's Progress**: Added a menu on the back layer and branded icon, and finished the final version of the shrine app.
+
+**Link to work:** https://github.com/Kyawkhaing444/Shrine-Flutter-App
+
+![Shire version 3](https://media0.giphy.com/media/TKXgfyFD16Y2pKZTQH/giphy.gif)
+<br>
+<img src="https://user-images.githubusercontent.com/34454546/88291718-b2298580-cd1e-11ea-97d3-882af1e7286b.png" alt="Image output" width="200" />
+<img src="https://user-images.githubusercontent.com/34454546/88291743-b9509380-cd1e-11ea-946b-2c5a93203b80.png" alt="Image output" width="200" style="float: left; display: inline-block;"/>
+
 ### Day 20: July 22, 2020
 
 **Today's Progress**: Added backdrop menu and modified the custom shape for the front layer (Home Page).(ShrineApp)
