@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: July 26, 2020
+
+**Today's Progress**: Solved some bugs for my Emaily Project.
+
+**Link to work:** https://github.com/Kyawkhaing444/EmailyProject-with-Node-and-React
+
 ### Day 21: July 23, 2020
 
 **Today's Progress**: Added a menu on the back layer and branded icon, and finished the final version of the shrine app.
