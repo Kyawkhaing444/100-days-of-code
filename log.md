@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: July 28, 2020
+
+**Today's Progress**: Learned about material design and practiced some features of material UI.
+
+**Link to work:** https://github.com/Kyawkhaing444/material_ui_ux_react
+
 ### Day 22: July 26, 2020
 
 **Today's Progress**: Solved some bugs for my Emaily Project.
