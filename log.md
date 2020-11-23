@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 24: Nov 23, 2020
+
+#### Today's Progress
+* **Kubernetes** - Learned the terminology of the Kubernetes, and other kubectl commands
+* **Javascript** - Solving three problems with Javascript
+
+
 ### Day 23: July 28, 2020
 
 **Today's Progress**: Learned about material design and practiced some features of material UI.
