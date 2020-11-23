@@ -4,7 +4,7 @@
 
 #### Today's Progress
 * **Kubernetes** - Learned the terminology of the Kubernetes, and other kubectl commands
-* **Javascript** - Solving three problems with Javascript
+* **Javascript** - Solved three problems with Javascript
 
 
 ### Day 23: July 28, 2020
