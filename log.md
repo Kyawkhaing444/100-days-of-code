@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: Nov 24, 2020
+
+#### Today's Progress
+* **Kubernetes** - Learned Deployment, Service, Ingress-Nginx in Kubernetes
+* **Javascript** - Solved ten Coding Problems with Javascript
+
 ### Day 24: Nov 23, 2020
 
 #### Today's Progress
