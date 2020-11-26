@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 27: Nov 26, 2020
+
+#### Today's Progress
+* **Javascript** - Solved ten coding challenges with javascript in freecodecamp
+
 ### Day 26: Nov 25, 2020
 
 #### Today's Progress
