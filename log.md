@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28: Nov 27, 2020
+
+#### Today's Progress
+* **Kubernetes** - Implemented Ingress-Nginx ( Load Balancer) service in my microservice project
+* **Javascript** - Solved five Coding Challenges with Javascript
+
 ### Day 27: Nov 26, 2020
 
 #### Today's Progress
