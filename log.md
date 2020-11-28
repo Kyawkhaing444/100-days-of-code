@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 29: Nov 28, 2020
+
+#### Today's Progress
+* **Javascript** - Practiced Functional Programming in Javascript
+
 ### Day 28: Nov 27, 2020
 
 #### Today's Progress
