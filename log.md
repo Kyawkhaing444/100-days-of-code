@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 30: Dec 4, 2020
+
+#### Today's Progress
+* **Python** - Solved the Arithmetic Formatter Challenge at FreeCodeCamp.
+* **ChallengeL Link** - https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+![Screenshot (319)](https://user-images.githubusercontent.com/34454546/101138168-3c271a80-363e-11eb-8273-06d98d4de0d5.png)
+
 ### Day 29: Nov 28, 2020
 
 #### Today's Progress
